@@ -1,0 +1,26 @@
+{
+  "name": "trufacet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A self-insight engine: turns a stream of personal activity into one genuinely useful thing you couldn't see on your own.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "gen:sample": "node scripts/generate-sample.mjs",
+    "git:events": "node scripts/git-to-events.mjs",
+    "csv:events": "node scripts/csv-to-events.mjs"
+  },
+  "dependencies": {
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.3"
+  }
+}
