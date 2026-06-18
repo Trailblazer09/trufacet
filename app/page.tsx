@@ -116,7 +116,8 @@ export default function Home() {
     <>
       <nav>
         <span className="nav-logo">
-          TruFacet<span className="nav-logo-arrow" aria-hidden="true">↕</span>
+          <span><span style={{ color: "var(--green)" }}>Tru</span>Facet</span>
+          <span className="nav-logo-arrow" aria-hidden="true">↕</span>
         </span>
         <div className="nav-right">
           <button className="nav-btn" onClick={loadSample} disabled={loading}>
