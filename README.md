@@ -1,4 +1,14 @@
-# TruFacet 💎
+
+<img width="1895" height="998" alt="image" src="https://github.com/user-attachments/assets/50f01bd4-083c-4aa9-8b3c-f1df1e5ab5b0" />
+
+<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/cbf2caf6-b46a-48f0-a3ad-c009dc6e23ad" />
+
+
+ 
+<h1 align="center">
+  <u><a href="https://trufacet.netlify.app/"><ins>TruFacet<ins></a>💎</u>
+</h1>
+
 
 **TruFacet takes a stream of your activity and tells you one genuinely useful thing about yourself that you couldn't see on your own.**
 
